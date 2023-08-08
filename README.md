@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<img  src="https://komarev.com/ghpvc/?username=Ashfaqh-R8&style=flat-square&color=blue" alt="center"/>
+<img  src="https://komarev.com/ghpvc/?username=Ashfaqh-R8&style=plastic&color=blue" alt="center"/>
 </div>
 <h1 align="center">
   Hey There !!!
