@@ -16,7 +16,7 @@
 <img  src="https://komarev.com/ghpvc/?username=Ashfaqh-R8&style=plastic&color=blue" alt="center"/>
 </div>
 <h1 align="center">
-  Hey There !!!
+  Hey There !!! I'm Ashfaqh 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### :man_technologist: About Me: I'm Mohammed Ashfaqh, A budding Business Analyst and ECE Engineer in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: About Me: I'm a budding Business Analyst and ECE Engineer in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I finished my Masters in Business Analytics and on the process of becoming the best in my career (self-taught Individual).
 
