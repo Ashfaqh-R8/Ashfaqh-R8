@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/eemPC4yhITcTm/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mhdashfaqh28">
+  <a href="https://www.linkedin.com/in/mohammed-ashfaqh-3364921aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/ashfaqh_r8?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D">
@@ -26,7 +26,7 @@
 
 ---
 
-### :man_technologist: About Me: I'm Mohammed Ashfaqh, A budding Business Analyst and an ECE Engineer from India currently residing in Ireland.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: About Me: I'm Mohammed Ashfaqh, A budding Business Analyst and ECE Engineer in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I finished my Masters in Business Analytics and on the process of becoming the best in my career (self-taught Individual).
 
@@ -38,7 +38,7 @@
 
 - :zap: In my free time, I read latest tech articles and organize my stuff. Also love Anime <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="60">.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashfaqh-blue?style=plastic&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mhdashfaqh28)  [![mail Badge](https://img.shields.io/badge/-Ashfaqh-red?style=plastic&logo=Gmail&logoColor=white)](ashfaqhmd1711@gmail.com) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashfaqh-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ashfaqh-3364921aa/)  [![mail Badge](https://img.shields.io/badge/-Ashfaqh-red?style=plastic&logo=Gmail&logoColor=white)](ashfaqhmd1711@gmail.com) 
 
 - :handshake: Feel free to reach out. 
 
