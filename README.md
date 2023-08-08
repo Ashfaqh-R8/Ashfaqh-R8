@@ -38,8 +38,7 @@
 
 - :zap: In my free time, I read latest tech articles and organize my stuff. Also love Anime <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="60">.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashfaqh-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ashfaqh-3364921aa/)  [![mail Badge](https://img.shields.io/badge/-Ashfaqh-red?style=plastic&logo=Gmail&logoColor=white)](ashfaqhmd1711@gmail.com) 
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashfaqh-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ashfaqh-3364921aa/)  <a href = "mailto: ashfaqhmd1711@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)]</a>
 - :handshake: Feel free to reach out. 
 
 <!---
