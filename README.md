@@ -12,9 +12,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<!--
 <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=Ashfaqh-R8&style=plastic&color=blue" alt="center"/>
 </div>
+-->
 <h1 align="center">
   Hey There !!! I'm Ashfaqh 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
