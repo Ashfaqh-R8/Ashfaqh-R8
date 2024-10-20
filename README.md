@@ -28,17 +28,17 @@
 
 ---
 
-### :man_technologist: About Me: I'm a budding Business Analyst and ECE Engineer in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :man_technologist: About Me: I'm a Data & Business Analyst and ECE Engineer residing in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I finished my Masters in Business Analytics and on the process of becoming the best in my career (self-taught Individual).
+- :telescope: I finished my Masters in Business Analytics and working on self-taught projects and currently looking for a career related to my qualification.
 
 - :seedling: Love to learn about a lot of new technologies ( Machine Learning, Artificial Intelligence, Data science, etc).
   
 - :game_die: Current Programming skills - SQL, PYTHON, C/C++, Excel.
   
-- :video_game:  Im currently learning PowerBI, Tableau.
+- :video_game:  Im currently learning PowerBI, and working Data Analysis and Machine Learning projects. Im curious about Testing too (Would love to learn in the coming days)
 
-- :zap: In my free time, I read latest tech articles and organize my stuff. Also love Anime <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="60">.
+- :zap: In my free time, I read latest tech articles and also I love to clean and organize my room. Also love Anime <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="60">.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ashfaqh-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ashfaqh-3364921aa/)  <a href = "mailto: ashfaqhmd1711@gmail.com">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)]</a>
 - :handshake: Feel free to reach out. 
