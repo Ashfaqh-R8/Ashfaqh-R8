@@ -30,11 +30,12 @@
 
 ### :man_technologist: About Me: I'm a Data & Business Analyst and ECE Engineer residing in Ireland :arrow_left: India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I finished my Masters in Business Analytics and working on self-taught projects and currently looking for a career related to my qualification.
+- :telescope: I finished my Masters in Business Analytics and working on self-taught projects and currently looking for a career related to my qualification or my previous Experience as System Engineer.
+
 
 - :seedling: Love to learn about a lot of new technologies ( Machine Learning, Artificial Intelligence, Data science, etc).
   
-- :game_die: Current Programming skills - SQL, PYTHON, C/C++, Excel.
+- :game_die: Current Programming skills - SQL, PYTHON, C/C++, Excel, PowerBi.
   
 - :video_game:  Im currently learning PowerBI, and working Data Analysis and Machine Learning projects. Im curious about Testing too (Would love to learn in the coming days)
 
